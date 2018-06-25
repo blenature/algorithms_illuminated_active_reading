@@ -1,5 +1,3 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alcazar90/algorithms_illuminated/issues)
-
 ## Algorithm Illuminated Active Reading
 
 Ths is an active reading project of the book series **Algorithm Illuminated** by [Tim Roughgarden](http://theory.stanford.edu/~tim/).
